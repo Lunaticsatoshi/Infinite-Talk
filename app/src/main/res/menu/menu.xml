@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/search"
+        android:title="Search"
+        android:icon="@drawable/ic_search"
+        app:showAsAction="ifRoom"
+        app:actionViewClass="androidx.appcompat.widget.SearchView"
+        />
+
+    <item
+        android:id="@+id/main_groups"
+        android:title="New Groups"
+        android:icon="@drawable/ic_search"
+        app:showAsAction="collapseActionView"
+        />
+
+    <item
+        android:id="@+id/main_find_friends"
+        android:title="Invite People"
+        android:icon="@drawable/ic_search"
+        app:showAsAction="collapseActionView"
+        />
+
+    <item
+        android:id="@+id/main_settings"
+        android:title="Settings"
+        android:icon="@drawable/ic_search"
+        app:showAsAction="collapseActionView"
+        />
+
+    <item
+        android:id="@+id/main_logout"
+        android:title="Logout"
+        android:icon="@drawable/ic_search"
+        app:showAsAction="collapseActionView"
+        />
+</menu>

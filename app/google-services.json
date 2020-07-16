@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "768720867099",
+    "firebase_url": "https://infinitetalk-2d758.firebaseio.com",
+    "project_id": "infinitetalk-2d758",
+    "storage_bucket": "infinitetalk-2d758.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768720867099:android:e4bc129c7d9f1a75b80dbe",
+        "android_client_info": {
+          "package_name": "com.example.dell.infinitetalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768720867099-kj5i2ud0f2644nnorbpa2j2k7ic24i00.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dell.infinitetalk",
+            "certificate_hash": "125835f53abdf0181bfb6af265eec46b624e68b4"
+          }
+        },
+        {
+          "client_id": "768720867099-5kuev82505vo3oq0odfdieu0euam1bde.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP5KHMEwAzWHDnYQdRVaLHID1WS8nRCzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768720867099-5kuev82505vo3oq0odfdieu0euam1bde.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
